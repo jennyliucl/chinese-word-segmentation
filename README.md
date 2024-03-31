@@ -1,5 +1,5 @@
 # chinese-word-segmentation
-compare the results of different segmentation packages in Chinese.
+Compare the results of different segmentation packages in Chinese.
 
 從中文文本斷詞執行時間、正確率、常見詞、關鍵詞與專有名詞的斷詞結果，比較 CKIPtagger、CoreNLP、SnowNLP、Jieba 四個套件的差異。
 
